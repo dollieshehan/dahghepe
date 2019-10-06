@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iceezeela.tl-dr.se/sitemap.xml
